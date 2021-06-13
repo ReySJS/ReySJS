@@ -1,8 +1,11 @@
 <h1 align="center"><span color="blue">&lt; </span>Rey <span>&frasl;&gt;</span></h1>
 <h2 align="center">Dev Full Stack - Javascript</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/reysantos/" target="_blank">
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <a href="https://www.linkedin.com/in/reysantos/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5571988093977&text=Talk%20to%20me" target="_blank">
+    <img src="https://img.shields.io/badge/-Whatsapp-1A936F?style=flat-square&logo=Whatsapp&logoColor=white" />
   </a>
 </p>
 <p>
@@ -12,16 +15,14 @@
 <br />
 <br />
 <span align="left">- 🔭 I’m currently studying at the Alpha Lumen Institute</span><br />
-<span align="left">- 🌱 I’m currently learning React</span><br />
-<span align="left">- 💬 Ask me about ...</span><br />
+<span align="left">- 💻 HTML5.2 | CSS3 | Javascript | React</span><br />
+<span align="left">- 💻 Apache | Ngnix | NodeJS </span><br />
 
 <br />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,1B3735,045449&border_color=B6B6B7" width="50%" /> 
 </p>
 
-<br />
-<br />
 <br />
 <br />
 <br />
