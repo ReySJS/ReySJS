@@ -6,7 +6,7 @@
   </a>
 </p>
 <p>
-  <img align="left" src="https://user-images.githubusercontent.com/78664426/121821791-afef5300-cc71-11eb-99c5-44afb8005e46.png" alt="Readme Image" width="300px" />
+  <img align="left" src="https://user-images.githubusercontent.com/78664426/121821791-afef5300-cc71-11eb-99c5-44afb8005e46.png" alt="Readme Image" width="40%" />
 </p>
 
 <br />
@@ -17,7 +17,7 @@
 
 <br />
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,1B3735,045449&border_color=B6B6B7" /> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,1B3735,045449&border_color=B6B6B7" width="50%" /> 
 </p>
 
 <br />
