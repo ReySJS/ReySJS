@@ -7,6 +7,7 @@
   <a href="https://api.whatsapp.com/send?phone=5571988093977&text=Talk%20to%20me" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-1A936F?style=flat-square&logo=Whatsapp&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ReySJS" alt="Hérika-Ströngreen" />
 </p>
 <p>
   <img align="left" src="https://user-images.githubusercontent.com/78664426/121821791-afef5300-cc71-11eb-99c5-44afb8005e46.png" alt="Readme Image" width="40%" />
@@ -35,5 +36,5 @@
 <p align="center">William Shakespeare</p>
 <!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReySJS&layout=compact&title_color=B6B6B7&text_color=B6B6B7&bg_color=2D2E31&border_color=B6B6B7" alt="Rey Santos" />
-</p>
- -->
+</p> -->
+
