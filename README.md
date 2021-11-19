@@ -1,4 +1,4 @@
-<h1 align="center"><span color="blue">&lt; </span>Rey <span>&frasl;&gt;</span></h1>
+<h1 align="center"><span color="blue">&lt;</span>Rey <span>&frasl;&gt;</span></h1>
 <h2 align="center">Dev Full Stack - Javascript</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/reysantos/">
