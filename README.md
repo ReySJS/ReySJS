@@ -17,8 +17,9 @@
 <br />
 <br />
 <span align="left">- 🔭 I’m currently studying at the Alpha Lumen Institute</span><br />
-<span align="left">- 💻 Figma | Photoshop | HTML5.2 | CSS3 | Javascript | JQuery | React | Jest </span><br />
+<span align="left">- 💻 Figma | Photoshop | HTML | CSS | Javascript | Typescript | JQuery | React | Jest </span><br />
 <span align="left">- 💻 Linux | Apache | Ngnix | NodeJS | Express | Git</span><br />
+<span align="left">- 💻 MongoDB | PostgreSQL | Redis | Docker | Express | Git</span><br />
 
 <br />
 <p>
