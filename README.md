@@ -1,5 +1,5 @@
 <h1 align="center"><span color="blue">&lt;</span>Rey <span>&frasl;&gt;</span></h1>
-<h2 align="center">Dev Full Stack</h2>
+<h2 align="center">Dev Full Stack Web | Mobile</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/reysantos/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
@@ -17,9 +17,10 @@
 <br />
 <br />
 <span align="left">- 🔭 I’m currently studying at the Alpha Lumen Institute</span><br />
-<span align="left">- 💻 Figma | Photoshop | HTML | CSS | Javascript | Typescript | JQuery | React | Jest </span><br />
-<span align="left">- 💻 Linux | Apache | Ngnix | NodeJS | Express | Git</span><br />
-<span align="left">- 💻 MongoDB | PostgreSQL | Redis | Docker | Express | Git</span><br />
+<span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
+<span align="left">- 💻 Backend -> Apache | Ngnix | NodeJS | NestJS | Express | Socket.io | Jest</span><br />
+<span align="left">- 💻 Database -> PostgreSQL | MongoDB | Redis | Prisma</span><br />
+<span align="left">- 💻 Tools -> Git | Trello | Agile | Prisma</span><br />
 
 <br />
 <p>
@@ -59,7 +60,7 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" /> -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" /> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> -->
 <!-- <img src="https://github.com/dnmfarrell/Perl-Icons/blob/master/Icons/Perl_Onion_Color.svg" alt="perl" width="40" height="40" /> -->
 <!-- </p> -->
