@@ -9,23 +9,48 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ReySJS" alt="Hérika-Ströngreen" />
 </p>
+
+```javascript
+const Rey = {
+  code: ["Javascript"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+      fronEnd: ["Figma", "Typescript", "React", "Tailwindcss"],
+      backEnd: ["NodeJS", "NestJS", "Express", "Fastify", "Prisma", "Socket.io", "Jest"],
+      mobile: ["React Native"],
+      devOps: ["AWS", "Docker", "Apache", "Nginx"],
+      databases: ["postgreSQL", "mongo", "MySql", "sqlite", "Redis"],
+      misc: ["Firebase", "Socket.IO"]
+  },
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+  currentFocus: "Creation of teaching platforms",
+  funFact: "There are two ways to write error-free programs; only the third one works",
+  hobbies: ["Learn","Guitar", "Draw", "Fiction movies"],
+};
+```
 <p>
-  <img align="left" src="https://user-images.githubusercontent.com/78664426/121821791-afef5300-cc71-11eb-99c5-44afb8005e46.png" alt="Readme Image" width="40%" />
+  <img align="right" src="https://user-images.githubusercontent.com/78664426/121821791-afef5300-cc71-11eb-99c5-44afb8005e46.png" alt="Readme Image" width="40%" />
 </p>
 
 
 <br />
 <br />
-<span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
+<!-- <span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
 <span align="left">- 💻 Backend -> NodeJS | NestJS | Express | Fastify | Prisma | Socket.io | Jest</span><br />
 <span align="left">- 💻 DevOps -> Apache | Ngnix | Docker </span><br />
 <span align="left">- 💻 Database -> PostgreSQL | MongoDB | Redis </span><br />
-<span align="left">- 💻 Tools -> Git | Trello | Agile </span><br />
+<span align="left">- 💻 Tools -> Git | Trello | Agile </span><br /> -->
 <br />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,1B3735,045449&border_color=B6B6B7" width="50%" /> 
 </p>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -53,6 +78,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
 <h3 align="center">“Better three hours too soon than a minute too late.”</h3>
 <p align="center">William Shakespeare</p>
 
