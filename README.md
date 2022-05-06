@@ -18,9 +18,10 @@
 <br />
 <span align="left">- 🔭 I’m currently studying at the Alpha Lumen Institute</span><br />
 <span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
-<span align="left">- 💻 Backend -> Apache | Ngnix | NodeJS | NestJS | Express | Socket.io | Jest</span><br />
-<span align="left">- 💻 Database -> PostgreSQL | MongoDB | Redis | Prisma</span><br />
-<span align="left">- 💻 Tools -> Git | Trello | Agile | Prisma</span><br />
+<span align="left">- 💻 Backend -> NodeJS | NestJS | Express | Fastify | Prisma | Socket.io | Jest</span><br />
+<span align="left">- 💻 DevOps -> Apache | Ngnix | Docker </span><br />
+<span align="left">- 💻 Database -> PostgreSQL | MongoDB | Redis </span><br />
+<span align="left">- 💻 Tools -> Git | Trello | Agile </span><br />
 
 <br />
 <p>
