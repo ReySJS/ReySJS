@@ -16,13 +16,11 @@
 
 <br />
 <br />
-<span align="left">- 🔭 I’m currently studying at the Alpha Lumen Institute</span><br />
 <span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
 <span align="left">- 💻 Backend -> NodeJS | NestJS | Express | Fastify | Prisma | Socket.io | Jest</span><br />
 <span align="left">- 💻 DevOps -> Apache | Ngnix | Docker </span><br />
 <span align="left">- 💻 Database -> PostgreSQL | MongoDB | Redis </span><br />
 <span align="left">- 💻 Tools -> Git | Trello | Agile </span><br />
-
 <br />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,1B3735,045449&border_color=B6B6B7" width="50%" /> 
