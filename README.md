@@ -36,7 +36,8 @@ const Rey = {
 <br />
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,045449&border_color=B6B6B7" width="50%" /> 
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=ReySJS&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,27292B,045449&border_color=B6B6B7&include_all_commits=true&count_private=true" /> 
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReySJS&layout=compact&langs_count=7&title_color=C9D1D9&text_color=C9D1D9&show_icons=true&icon_color=ceae4c&bg_color=DEG,045449,27292B&border_color=B6B6B7" />
 </p>
 
