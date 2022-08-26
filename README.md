@@ -29,11 +29,11 @@ const Rey = {
   hobbies: ["Learn","Guitar", "Draw", "Fiction movies"],
 };
 ```
-<!-- <span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
+<span align="left">- 💻 Frontend -> Figma | Typescript | React | React Native | Tailwindcss</span><br />
 <span align="left">- 💻 Backend -> NodeJS | NestJS | Express | Fastify | Prisma | Socket.io | Jest</span><br />
 <span align="left">- 💻 DevOps -> Apache | Ngnix | Docker </span><br />
 <span align="left">- 💻 Database -> PostgreSQL | MongoDB | Redis </span><br />
-<span align="left">- 💻 Tools -> Git | Trello | Agile </span><br /> -->
+<span align="left">- 💻 Tools -> Git | Trello | Agile </span><br />
 <br />
 
 <p align="center">
