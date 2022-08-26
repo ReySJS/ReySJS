@@ -12,12 +12,13 @@
 
 ```javascript
 const Rey = {
-  code: ["Javascript"],
-  askMeAbout: ["web dev", "tech", "app dev"],
+  code: ["Javascript", "C#"],
+  askMeAbout: ["web dev", "tech", "app dev", "game dev"],
   technologies: {
       fronEnd: ["Figma", "Typescript", "React", "Tailwindcss"],
       backEnd: ["NodeJS", "NestJS", "Express", "Fastify", "Prisma", "Socket.io", "Jest"],
       mobile: ["React Native"],
+      game: ["Unity", "Toon Boom"],
       devOps: ["AWS", "Docker", "Apache", "Nginx"],
       databases: ["postgreSQL", "mongo", "MySql", "sqlite", "Redis"],
       misc: ["Firebase", "Socket.IO"]
