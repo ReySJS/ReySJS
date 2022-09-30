@@ -12,7 +12,7 @@
 
 ```javascript
 const Rey = {
-  code: ["Javascript", "C#"],
+  code: ["Javascript", "Python", "C#"],
   askMeAbout: ["web dev", "tech", "app dev", "game dev"],
   technologies: {
       fronEnd: ["Figma", "Typescript", "React", "Tailwindcss"],
