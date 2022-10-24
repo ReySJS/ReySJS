@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/reysantos/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5571988093977&text=Talk%20to%20me" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5571991494809&text=Talk%20to%20me" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-1A936F?style=flat-square&logo=Whatsapp&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ReySJS" alt="Hérika-Ströngreen" />
