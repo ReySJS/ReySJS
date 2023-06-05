@@ -15,7 +15,7 @@ const Rey = {
   code: ["Javascript", "Python", "C#"],
   askMeAbout: ["web dev", "tech", "app dev", "game dev"],
   technologies: {
-      fronEnd: ["Figma", "Typescript", "React", "Tailwindcss"],
+      fronEnd: ["Figma", "Typescript", "React", "Nextjs", "Tailwindcss"],
       backEnd: ["NodeJS", "NestJS", "Django", "Express", "Fastify", "Prisma", "Socket.io", "Jest"],
       mobile: ["React Native"],
       game: ["Unity", "Toon Boom"],
