@@ -12,21 +12,22 @@
 
 ```javascript
 const Rey = {
-  code: ["Javascript", "Python", "C#"],
-  askMeAbout: ["web dev", "tech", "app dev", "game dev"],
+  languages: ["JavaScript", "TypeScript", "Python", "C#", "Go"],
+  focusAreas: ["Web", "Mobile", "Game Development", "Distributed Systems"],
   technologies: {
-      fronEnd: ["Figma", "Typescript", "React", "Nextjs", "Tailwindcss"],
-      backEnd: ["NodeJS", "NestJS", "Django", "Express", "Fastify", "Prisma", "Socket.io", "Jest"],
-      mobile: ["React Native"],
-      game: ["Unity", "Toon Boom"],
-      devOps: ["AWS", "Docker", "Apache", "Nginx"],
-      databases: ["postgreSQL", "mongo", "MySql", "sqlite", "Redis"],
-      misc: ["Firebase", "Socket.IO"]
+    frontEnd: ["React", "Next.js", "TailwindCSS", "Figma"],
+    backEnd: ["Node.js", "NestJS", "Express", "Fastify", "Django", "Prisma", "Socket.IO"],
+    mobile: ["React Native"],
+    gameDev: ["Unity"],
+    devOps: ["AWS", "Docker", "Nginx", "Apache", "RabbitMQ"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Redis"],
+    testing: ["Jest", "Vitest", "Playwright"],
+    misc: ["Firebase", "Socket.IO"],
+    architecture: ["Serverless Architecture", "PWA", "SPA", "DDD"]
   },
-  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-  currentFocus: "Creation of teaching platforms",
-  funFact: "There are two ways to write error-free programs; only the third one works",
-  hobbies: ["Learn","Guitar", "Draw", "Fiction movies"],
+  businessContexts: ["Education", "Insurance", "Logistics"],
+  funFact: "There are two ways to write error-free programs; only the third one works.",
+  hobbies: ["Learning", "Guitar", "Drawing", "Fiction movies"]
 };
 ```
 
